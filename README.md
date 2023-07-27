@@ -1,4 +1,4 @@
-# workday-planner-unique
+# workday-planner
 Workday planner made with html, css, and javascript.
 
 
