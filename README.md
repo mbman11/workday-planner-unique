@@ -9,6 +9,9 @@ Workday planner made with html, css, and javascript.
 deployed link:
 https://mbman11.github.io/workday-planner-unique/
 
+repo link:
+https://github.com/mbman11/workday-planner-unique
+
 
 
 ![Alt text](<Screen Shot 2023-07-27 at 10.45.22 AM.png>)
